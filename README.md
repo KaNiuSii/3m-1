@@ -18,12 +18,15 @@
 
 ## Błędy i Ich Korekta
 1. **Błędy Nadmierne**: Usuwane zwykle za pomocą kryterium 3s.
+
 <br> ![image](https://github.com/KaNiuSii/3m-1/assets/123270897/5251c5e1-b3dd-481f-8e2b-c91d77267654) <br>
-2. **Błędy Systematyczne**: Usuwane przez stosowne uwzględnienie błędów wprowadzanych przez przyrządy i metody.
+
+3. **Błędy Systematyczne**: Usuwane przez stosowne uwzględnienie błędów wprowadzanych przez przyrządy i metody.
 
 ## Zapis Wyniku Pomiaru
 1. **Estymata i Przedział Niepewności**: Obejmuje wartość pomiaru, poziom ufności i przedział, w którym wartość prawdziwa prawdopodobnie się znajduje.
 2. **Zasady Zaokrąglania**: Specyficzne reguły dla wyniku pomiaru i niepewności.
+
 <br> ![image](https://github.com/KaNiuSii/3m-1/assets/123270897/b977f8fa-dd58-4d00-9ff2-0ccc4db0a5df) <br>
 
 ## Niepewność rozszerzona
