@@ -18,22 +18,16 @@
 
 ## Błędy i Ich Korekta
 1. **Błędy Nadmierne**: Usuwane zwykle za pomocą kryterium 3s.
-<br>
-   ![image](https://github.com/KaNiuSii/3m-1/assets/123270897/5251c5e1-b3dd-481f-8e2b-c91d77267654)
-<br>
+<br> ![image](https://github.com/KaNiuSii/3m-1/assets/123270897/5251c5e1-b3dd-481f-8e2b-c91d77267654) <br>
 2. **Błędy Systematyczne**: Usuwane przez stosowne uwzględnienie błędów wprowadzanych przez przyrządy i metody.
 
 ## Zapis Wyniku Pomiaru
 1. **Estymata i Przedział Niepewności**: Obejmuje wartość pomiaru, poziom ufności i przedział, w którym wartość prawdziwa prawdopodobnie się znajduje.
 2. **Zasady Zaokrąglania**: Specyficzne reguły dla wyniku pomiaru i niepewności.
-<br>
-![image](https://github.com/KaNiuSii/3m-1/assets/123270897/b977f8fa-dd58-4d00-9ff2-0ccc4db0a5df)
-<br>
+<br> ![image](https://github.com/KaNiuSii/3m-1/assets/123270897/b977f8fa-dd58-4d00-9ff2-0ccc4db0a5df) <br>
 
 ## Niepewność rozszerzona
-<br>
-![image](https://github.com/KaNiuSii/3m-1/assets/123270897/8a879f3b-e145-429b-bb63-6f66d8010ca0)
-<br>
+<br> ![image](https://github.com/KaNiuSii/3m-1/assets/123270897/8a879f3b-e145-429b-bb63-6f66d8010ca0) <br>
 
 ## Podsumowanie
 - Niepewność pomiaru jest kluczowym elementem każdego pomiaru, uwzględniającym potencjalny rozrzut wyników.
@@ -100,7 +94,8 @@
 - Gdy funkcja gęstości prawdopodobieństwa jest zbliżona do rozkładu Gaussa, do obliczenia niepewności rozszerzonej na poziomie ufności p = 0,95 można stosować współczynnik \( k_p = 2 \).
 
 ## Niepewność Rozszerzona
-- Obliczana ze wzoru: \( U_p = k \cdot u_c \)
+- Obliczana ze wzoru: ![image](https://github.com/KaNiuSii/3m-1/assets/123270897/fee78ffa-d2d8-4a90-a45c-bb8fc7ec2995)
+
 - \( k \) - współczynnik rozszerzenia, zależny od rozkładu łącznego niepewności obliczanej metodą typu A i B.
 - ![image](https://github.com/KaNiuSii/3m-1/assets/123270897/da0ac7c1-ed3f-4c55-9cc9-19deffbb95cf)
  - niepewność standardowa łączna.
